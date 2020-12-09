@@ -1,0 +1,10 @@
+.contenedor1{
+    background-image: url(https://patrullaroja.cl/wp-content/uploads/2020/08/Animes-general.jpg);
+    width:100%;
+    height:100vh;
+    background-size:100%;
+}
+.jumbotron{
+    background-color: #fffa65;
+    font-family: 'Times New Roman', Times, serif;
+}
